@@ -9,7 +9,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ---
 ## Categories
-TODO
+* [vscode](#vscode)
 
 
 ---
@@ -19,13 +19,14 @@ TODO
 
 ## About
 
-I shamelessly stole this idea from thoughtbot/til.
+I shamelessly stole this idea from
+[thoughtbot/til](https://github.com/thoughtbot/til).
 
 ## Other TIL Collections
 
-   - Today I Learned by Hashrocket
-   - jwworth/til
-   - thoughtbot/til
+* [Today I Learned by Hashrocket](https://til.hashrocket.com)
+* [jwworth/til](https://github.com/jwworth/til)
+* [thoughtbot/til](https://github.com/thoughtbot/til)
 
 
 
