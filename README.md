@@ -10,12 +10,17 @@ A collection of concise write-ups on small things I learn day to day across a va
 ---
 ## Categories
 * [vscode](#vscode)
-
+* [linux](#linux)
 
 ---
 ## vscode
 
 - [drawio - make  flow chart ](https://github.com/cuixiaorui/til/blob/master/vscode/drawio%20-%20make%20%20flow%20chart%20.md)
+
+--- 
+## linux
+
+- [ctrl R quick search command history]()
 
 ## About
 
