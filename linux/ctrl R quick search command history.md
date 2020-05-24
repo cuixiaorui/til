@@ -4,6 +4,8 @@
 
 快速搜索命令历史
 
+---
+
 quick search command history
 
 ## how

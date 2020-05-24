@@ -20,7 +20,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 --- 
 ## linux
 
-- [ctrl R quick search command history]()
+- [ctrl R quick search command history](https://github.com/cuixiaorui/til/blob/master/linux/ctrl%20R%20quick%20search%20command%20history.md)
 
 ## About
 
