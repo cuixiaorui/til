@@ -31,7 +31,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 ---
 ## think
 
-- [对编程教学的思考]()
+- [对编程教学的思考](https://github.com/cuixiaorui/til/blob/master/think/%E5%AF%B9%E7%BC%96%E7%A8%8B%E6%95%99%E5%AD%A6%E7%9A%84%E6%80%9D%E8%80%83.md)
 
 ## About
 
