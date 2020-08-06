@@ -33,6 +33,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 - [对编程教学的思考](https://github.com/cuixiaorui/til/blob/master/think/%E5%AF%B9%E7%BC%96%E7%A8%8B%E6%95%99%E5%AD%A6%E7%9A%84%E6%80%9D%E8%80%83.md)
 
+- [软件工程设计过程方法论](https://github.com/cuixiaorui/til/blob/master/think/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B%E6%96%B9%E6%B3%95%E8%AE%BA.md)
 ## About
 
 I shamelessly stole this idea from
